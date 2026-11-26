@@ -15,7 +15,7 @@ pipeline {
 
         stage('2. Application Build & Test') {
             steps {
-                bat 'C:\\Users\\STUDENT\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin\\docker.exe'
+                bat 'C:\\Users\\STUDENT\\AppData\\Local\\Programs\\Python\\Python314\\python.exe'
              
             }
         }
